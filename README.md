@@ -1,7 +1,7 @@
 ## Hi I'm Vladislav 👋
 ### I’m looking for a job as a Java developer
-### Every day I improve my development skills
-### I'm lerning English too
+### Every day I improve my development skills. I'm lerning English too
+
 ### Contact with me:
 - 📫 marmuzvladislav@gmail.com
 - 💬 Telegram: @vladMarmuz
