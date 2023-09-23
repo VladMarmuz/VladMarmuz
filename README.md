@@ -1,6 +1,6 @@
 ## Hi I'm Vladislav 👋
 ### Java developer
-### Every day I improve my development skills. I'm lerning English too
+### Every day I improve my development skills. I lern English too
 
 ### Contact with me:
 - 📫 marmuzvladislav@gmail.com
