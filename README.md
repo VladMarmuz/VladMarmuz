@@ -1,5 +1,5 @@
 ## Hi everyone👋
-I am **Backend Software Engineer**
+I am a **Backend Software Engineer**
 ### Contact with me:
   * [Email](marmuzvladislav@gmail.com)
   * [Telegram](@vladMarmuz)
